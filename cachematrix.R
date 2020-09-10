@@ -4,7 +4,6 @@
 ## Write a short comment describing this function
 ##This function returns a list of operations to be associated with the input argument (x).
 
-
 makeCacheMatrix <- function(x = matrix()) {
 inverse <- NULL
 set <- function(y) {
